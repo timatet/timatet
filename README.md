@@ -13,8 +13,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=timatet&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=timatet&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=timatet&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=timatet&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=timatet&theme=solarized_dark)
